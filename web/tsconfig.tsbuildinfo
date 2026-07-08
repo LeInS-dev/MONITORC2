@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/blobs.ts","./src/main.tsx","./src/protocol.ts","./src/components/DeviceGrid.tsx","./src/components/DeviceView.tsx","./src/components/FileExplorer.tsx","./src/components/Gallery.tsx","./src/components/Login.tsx","./src/hooks/useDeviceStream.ts"],"version":"5.9.3"}
