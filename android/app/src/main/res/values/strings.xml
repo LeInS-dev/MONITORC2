@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ARGOS Control</string>
+    <string name="accessibility_label">ARGOS Control Remoto</string>
+    <string name="accessibility_description">Permite al panel de operador ejecutar toques, deslizamientos y texto en este equipo administrado. Se activó con tu consentimiento durante el enrolamiento.</string>
+
+    <string name="enroll_title">Administración remota de este equipo</string>
+    <string name="enroll_body">Al activar, este equipo quedará ADMINISTRADO y podrá ser visto y controlado de forma remota por el operador del panel ARGOS: pantalla en vivo, toques y texto, galería de fotos y archivos.\n\nMientras esté activo verás siempre una notificación fija indicándolo. Puedes desactivarlo desde los Ajustes de Accesibilidad y desinstalando la app.\n\nActiva solo si eres el dueño del equipo o tienes autorización.</string>
+    <string name="enroll_server">URL del servidor (wss://host:puerto)</string>
+    <string name="enroll_token">Token de enrolamiento</string>
+    <string name="enroll_accept">Acepto y activar administración</string>
+
+    <string name="notif_channel">Administración remota</string>
+    <string name="notif_title">Equipo administrado remotamente</string>
+    <string name="notif_text">Este equipo puede ser visto y controlado por el panel ARGOS.</string>
+</resources>
